@@ -12,6 +12,6 @@ tak ada pesta yang tak berakhir dan tak ada derita yang abadi ok
     <title>Redirect Button</title>
 </head>
 <body>
-    <a href="www.facebook.com"><button>Go to </button></a>
+    <a href="http://www.facebook.com"><button>Go to </button></a>
 </body>
 
