@@ -19,14 +19,25 @@
 </html>
 
 
-<!DOCTYPE html>
-<html lang="en">
+
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Oke Button</title>
+    <title>Black Button</title>
+    <style>
+        .black-button {
+            background-color: black;
+            color: white;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    </style>
 </head>
 <body>
-    <button type="button">Oke</button>
+    <button class="black-button">Click Me</button>
 </body>
 </html>
+
