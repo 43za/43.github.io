@@ -21,23 +21,13 @@
 
 
 
+
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Black Button</title>
-    <style>
-        .black-button {
-            background-color: black;
-            color: white;
-            padding: 10px 20px;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-        }
-    </style>
+    <title>Redirect Button</title>
 </head>
 <body>
-    <button class="black-button">Click Me</button>
+    <a href="destination_page.html"><button>Go to Destination</button></a>
 </body>
 </html>
-
