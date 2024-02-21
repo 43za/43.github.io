@@ -1,6 +1,6 @@
 Semangat untuk semua yang kau lakukan, jangan pernah lari dari kenyataan menyerah dan mengutuk nasib, tetap berjuang semua ada masa-nya
 
-tak ada pesta yang tak berakhir dan tak ada derita yang abadi
+tak ada pesta yang tak berakhir dan tak ada derita yang abadi ok
 
 
 
