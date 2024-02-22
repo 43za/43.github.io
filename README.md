@@ -116,6 +116,5 @@
     <p>Check out more about color themes <a href="#">here</a>.</p>
 </div>
 
-</body>
-</html>
+
 
