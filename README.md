@@ -10,6 +10,7 @@
 <section id="about">
     <h2>About Me</h2>
     <p>Hello! Hallo nama saya fery, saya adalah seorang freelancer yang bergerak dalam bidang pengolahan data dan internet marketing.</p>
+    <p>Hello! saya tinggal di Bogor, Tangerang, Sumatra.</p>
 </section>
 
 <section id="skills">
