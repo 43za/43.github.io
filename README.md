@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://facebook.com/">
-    <img src="[https://https://https://images.app.goo.gl/hHdTeZMgktFdHA778.png" alt="Bootstrap logo" width="200" height="165">
+    <img src="[https://images.app.goo.gl/hHdTeZMgktFdHA778" alt="Bootstrap logo" width="200" height="165">
   </a>
 </p>
 
