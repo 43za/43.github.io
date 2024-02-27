@@ -58,7 +58,7 @@
   </nav>
 
   <div class="jumbotron text-center">
-    <h1>Welcome to Fery!</h1>
+    <h1>Selamat Datang!</h1>
     <p>A fun and colorful website</p>
   </div>
 
