@@ -21,7 +21,7 @@
 </head>
 <body>
     <div class="container">
-        <h1>Hello, I'm Fery, a Freelancer Based in Bogor, Indonesia</h1>
+        <h1>Fery, a Freelancer Based in Bogor, Indonesia</h1>
         <p>I specialize in data management and data analysis through queries.</p>
         <p>If you're looking to improve your business, feel free to contact me at <a href="mailto:feryferdian1945@gmail.com">feryferdian1945@gmail.com</a>.</p>
     </div>
