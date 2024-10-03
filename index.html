@@ -3,77 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chiner Inc</title>
-    <style>
-        /* Gaya CSS Anda di sini */
-        body {
-            background-color: #ffffcc; /* Soft yellow background color */
-            color: black; /* Warna teks */
-        }
-    </style>
+    <title>Membuat Form Sederhana</title>
 </head>
-  
-<p></p>Selamat datang di website ini<p></p>
 <body>
-<h2>Skills</h2>
-<nav>
-    <ul>
-        <li><a href="#about">About Me</a></li>
-        <li><a href="#skills">Skills</a></li>
-        <li><a href="#portfolio">Portfolio</a></li>
-        <li><a href="#contact">Contact</a></li>
-    </ul>
-</nav>
-
-<section id="about">
-    <h2>About Me</h2>
-    <p> Halo selamat datang di website ini, ini adalah project uji coba karena kebanyakan bengong di Pekanbaru di hotel</p>
-    <p>Saya sudah satu setengah bulan ada disini, semoga Allah ridho dan memberikan solusi yang terbaik </p>
-    <p>Project ini berjalan tidak sebagaimana mestinya, dan tidak sesuai dengan harapan karena salah perhitungan dan kalkulasi, tidak mencukupi untuk kebutuhan hidup sehari hari, mesti di syukuri tapi juga perlu di evaluasi. </p>
-</section>
-
-<section id="skills">
-    <h2>Skills</h2>
-    <ul>
-        <li>excel </li>
-        <li>Menulis Artikel/CSS</li>
-        <li>Pembuatan laporan dalam excel ke bentuf pdf</li>
-        <li>Convert PDF ke Word dan Excel </li>
-        <li>RESTful API Development</li>
-        <li>Database Management (SQL & NoSQL)</li>
-        <li>Version Control (Git)</li>
-    </ul>
-</section>
-
-<section id="portfolio">
-    <h2>Portfolio</h2>
-    <p>Below are some of the projects I've worked on:</p>
-    <ul>
-        <li><a href="https://43za.github.io/fery.github.io">fery.github.io  </a> website baru </li>
-        <li><a href="https://43za.github.io/fery2.github.io">foto sukhoi</a> - A Flask microservice for a booking system.</li>
-        <li><a href="https://github.com/43za/43za.github.io/blob/main/README.md">Git Hub Readme.md</a> - A responsive portfolio website built with HTML, CSS, and JavaScript.</li>
-    </ul>
-</section>
-
-<section id="contact">
-    <h2>Contact Me</h2>
-    <form action="submit_form.php" method="POST">
-        <label for="name">Name:</label>
-        <input type="text" id="name" name="name" required>
-        
-        <label for="email">Email:</label>
-        <input type="email" id="email" name="email" required>
-        
-        <label for="message">Message:</label>
-        <textarea id="message" name="message" rows="1" required></textarea>
-        
-        <button type="submit">Send Message</button>
+    <form>
+        <div>
+            <label>Nama</label> <br>
+            <input name="nama" type="text" placeholder="Masukkan nama">
+        </div>
+        <div>
+            <label>Alamat</label> <br>
+            <input name="alamat" type="text" placeholder="Masukkan alamat">
+        </div>
+        <div>
+            <button>Submit</button>
+        </div>
     </form>
-</section>
-
-<footer>
-    <!-- Konten footer Anda di sini -->
-</footer>
-
 </body>
 </html>
